@@ -15,11 +15,11 @@ It seems the **QueryManager** is not aware anymore of queries that were done on 
 
 - Clone
 - Go to terminal
-- $ cd backend
-- $ yarn && yarn start
+- `$ cd backend`
+- `$ yarn && yarn start`
 - Open second tab
-- $ cd frontend
-- $ yarn && yarn start
+- `$ cd frontend`
+- `$ yarn && yarn start`
 
 It's create-react-app, so a browser window will open.  
 Add a book and see: the book list is not updated. The new book WILL show when refreshing the page.
